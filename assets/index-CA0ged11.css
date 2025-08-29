@@ -2404,7 +2404,7 @@
   }
 }
 @font-face {
-  font-family: fontello;
+  font-family: Yekan;
   src: url(./fontello-GWG15wIa.eot);
   src: url(./fontello-Cu3EEHpA.ttf);
   src: url(./fontello-CKmP41Y7.woff);
@@ -2437,13 +2437,6 @@
   src: url(./Shabnam-Bold-FD-BsgitjB2.ttf);
   src: url(./Shabnam-Bold-FD-D3DfprXS.woff);
   src: url(./Shabnam-Bold-FD-B4xNpIWI.woff2);
-}
-@font-face {
-  font-family: Yekan;
-  src: url(./fontello-Cqw191qV.woff2);
-  src: url(./Shabnam-Bold-FD-B4xNpIWI.woff2);
-  src: url(./Shabnam-FD-UqE7V9cL.woff2);
-  src: url(./Shabnam-Medium-FD-CCYWnpK7.woff2);
 }
 @font-face {
   font-family: Icond;
@@ -2504,17 +2497,12 @@
   text-align: center;
   font-variant: normal;
   text-transform: none;
-  -webkit-font-smoothing: ;
   width: 1em;
   font-family: Icond;
   font-style: normal;
   font-weight: 400;
   line-height: 1em;
   display: inline-block;
-}
-.icon-searcher:before {
-  content: "";
-  font-family: fontello;
 }
 
 .icon-search:before {
