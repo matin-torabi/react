@@ -2516,261 +2516,67 @@
   content: "";
   font-family: fontello;
 }
-.icon-ok-circled2:before {
-  content: "";
-}
-.icon-cancel-circled-outline:before {
-  content: "";
-}
-.icon-home-outline:before {
-  content: "";
-}
-.icon-up-open:before {
-  content: "";
-}
-.icon-attention:before {
-  content: "";
-}
-.icon-info-circled:before {
-  content: "";
-}
-.icon-search-normal:before {
-  content: "";
-}
-.icon-bell:before {
-  content: "";
-}
-.icon-heart-empty-1:before {
-  content: "";
-}
-.icon-heart-1:before {
-  content: "";
-}
-.icon-instagram:before {
-  content: "";
-}
-.icon-truck3:before {
-  content: "";
-}
-.icon-chevron-right:before {
-  content: "";
-}
-.icon-location5:before {
-  content: "";
-}
-.icon-wallet:before {
-  content: "";
-}
-.icon-mail:before {
-  content: "";
-}
-.icon-shop:before {
-  content: "";
-}
-.icon-key:before {
-  content: "";
-}
-.icon-back:before {
-  content: "";
-}
-.icon-list-nested:before {
-  content: "";
-}
-.icon-equalizer:before {
-  content: "";
-}
-.icon-twitter:before {
-  content: "";
-}
-.icon-paper-plane:before {
-  content: "";
-}
-.icon-help-circled-alt:before {
-  content: "";
-}
-.icon-picture:before {
-  content: "";
-}
-.icon-print:before {
-  content: "";
-}
-.icon-eye:before {
-  content: "";
-}
-.icon-edit:before {
-  content: "";
-}
-.icon-sort:before {
-  content: "";
-}
-.icon-qrcode:before {
-  content: "";
-}
-.icon-star-empty:before {
-  content: "";
-}
-.icon-user:before {
-  content: "";
-}
-.icon-basket:before {
-  content: "";
-}
-.icon-bell-1:before {
-  content: "";
-}
-.icon-bullhorn:before {
-  content: "";
-}
-.icon-share:before {
-  content: "";
-}
-.icon-plus:before {
-  content: "";
-}
-.icon-minus:before {
-  content: "";
-}
-.icon-check-box-on:before {
-  content: "";
-}
-.icon-check-box-of:before {
-  content: "";
-}
-.icon-history:before {
-  content: "";
-}
-.icon-account-circle:before {
-  content: "";
-}
-.icon-phone:before {
-  content: "";
-}
-.icon-gift:before {
-  content: "";
-}
-.icon-close:before {
-  content: "";
-}
-.icon-pen:before {
-  content: "";
-}
-.icon-trash:before {
-  content: "";
-}
-.icon-chevron-left:before {
-  content: "";
-}
-.icon-compare:before {
-  content: "";
-}
-.icon-location:before {
-  content: "";
-}
-.icon-account:before {
-  content: "";
-}
-.icon-clock:before {
-  content: "";
-}
-.icon-radio-button-on:before {
-  content: "";
-}
-.icon-radio-button-off:before {
-  content: "";
-}
+
 .icon-search:before {
-  content: "";
+  content: "\e806";
+  font-family: "Yekan";
 }
-.icon-cart:before {
-  content: "";
-}
-.icon-thumb-down:before {
-  content: "";
-}
-.icon-thumb-up-outline:before {
-  content: "";
-}
-.icon-thumb-up:before {
-  content: "";
-}
-.icon-menu:before {
-  content: "";
-}
-.icon-arrow-right:before {
-  content: "";
-}
-.icon-arrow-left:before {
-  content: "";
-}
-.icon-arrow-up:before {
-  content: "";
-}
+
 .icon-arrow-down:before {
-  content: "";
+  content: "\e923";
+  font-family: "Yekan";
 }
-.icon-logout:before {
-  content: "";
+
+.icon-chevron-left:before {
+  content: "\e90c";
+  font-family: "Yekan";
 }
-.icon-check:before {
-  content: "";
+
+.icon-menu:before {
+  content: "\e91f";
+  font-family: "Yekan";
 }
-.icon-arrow-square-left:before {
-  content: "";
+
+.icon-account:before {
+  content: "\e90f";
+  font-family: "Yekan";
 }
-.icon-box:before {
-  content: "";
+
+.icon-searcher:before {
+  content: "\e913";
+  font-family: "Yekan";
 }
-.icon-location-1:before {
-  content: "";
-}
-.icon-upload:before {
-  content: "";
-}
-.icon-facebook:before {
-  content: "";
-}
-.icon-angle-double-left:before {
-  content: "";
-}
-.icon-angle-double-right:before {
-  content: "";
-}
-.icon-quote-left:before {
-  content: "";
-}
-.icon-quote-right:before {
-  content: "";
-}
-.icon-circle:before {
-  content: "";
-}
-.icon-file-pdf:before {
-  content: "";
-}
-.icon-file-excel:before {
-  content: "";
-}
-.icon-bell-off:before {
-  content: "";
-}
-.icon-cart-arrow-down:before {
-  content: "";
-}
-.icon-whatsapp:before {
-  content: "";
-}
-.icon-shopping-basket:before {
-  content: "";
-}
+
 .icon-percent:before {
-  content: "";
+  content: "\f295";
+  font-family: "Yekan";
 }
-.icon-telegram:before {
-  content: "";
+
+.icon-arrow-square-left:before {
+  content: "\e93a";
+  font-family: "Yekan";
 }
-.icon-linkedin:before {
-  content: "";
+
+.icon-phone:before {
+  content: "\e907";
+  font-family: "Yekan";
 }
+
+.icon-clock:before {
+  content: "\e910";
+  font-family: "Yekan";
+}
+
+.icon-location:before {
+  content: "\e90e";
+  font-family: "Yekan";
+}
+
+.icon-up-open:before {
+  content: "\e803";
+  font-family: "Yekan";
+}
+
 @keyframes progress {
   50% {
     background-position-x: -115%;
